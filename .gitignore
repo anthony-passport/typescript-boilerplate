@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Coverage
+/coverage
+
+# Credentials
+/src/config/*.ts

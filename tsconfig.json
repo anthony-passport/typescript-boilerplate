@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES2020",
+    "module": "CommonJS",
+    "types": ["node", "jest"],
+    "esModuleInterop": true,
+
+    // Ignore 'any' error logs
+    "noImplicitAny": true
+  },
+  "include": ["src", "src/index.ts"], // compiled source folder
+  "exclude": ["node_modules", "dist"] // compiler skips this
+}
