@@ -1,4 +1,4 @@
-# typescript-eslint-boilerplate
+# typescript-boilerplate
 
 Template to be reused in future projects for quick code setup.
 
